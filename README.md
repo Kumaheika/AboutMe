@@ -34,7 +34,7 @@
 
 #### Javascript
 - Javascript / JQuery
-- 善用 JQuery Plugin 功能模組化
+- 撰寫 JQuery Plugin 功能模組化
 - 善用 Ajax 與後端 API 合作
 
 #### 自動化工具
