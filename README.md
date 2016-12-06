@@ -4,7 +4,9 @@
 - Portfolio: [I'm Kuma Wu](https://kumaheika.portfoliobox.net)
 - Personal Blog: [Kuma Studio](https://kumaheika.github.io/)
 - [LinkedIn](https://tw.linkedin.com/in/kuma-wu-4b8019a9)
+
 ---
+
 - Education : 高雄師範大學 - 資訊教育研究所
 - Company: Taiwan / Kaohsiung
 - Birthday: Oct 5th , 1983
