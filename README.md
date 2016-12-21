@@ -18,12 +18,12 @@
 
 ## Professional Skill:
 #### Design Tool
-- 熟悉 Photoshop / Illustrator / Flash / Sketch
-- 善用 AE/Premiere 處理影片、特效
+- 熟悉 Photoshop / Illustrator / Flash
+- 善用 AE/Premiere 處理影片、特效 / Sketch
 
 #### UI/UX
-- 熟悉規劃 App workflow
-- 依不同裝置、解析，設計符合規格 UI
+- 熟悉 App workflow 規劃
+- 了解不同裝置、解析，設計規格 UI
 - 使用 Prototype(Flinto) 工具，提升溝通效率
 - 使用 Zepline 標示 UI，加速開發
 
@@ -43,6 +43,9 @@
 #### 版本控制
 - Git / GitHub
 
+#### IDE
+- Atom / Sublime
+
 ---
 
 ## 工作經歷
@@ -52,3 +55,17 @@
 - 百世文教企業 - Media Designer
 - 高雄醫學大學 - 業界講師
 - 勝典科技 - Media Designer
+
+---
+
+## 參加活動/社群
+1. 2016 MOPCON - 行動科技應用開發者年會
+  - 美術組人員
+* 高雄前端社群
+
+---
+
+## 目前2017目標
+- Vue.js 2.0
+- Sketch
+- 資訊圖表化整理
